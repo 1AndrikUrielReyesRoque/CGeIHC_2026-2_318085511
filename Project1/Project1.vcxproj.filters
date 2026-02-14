@@ -35,7 +35,7 @@
     <ClCompile Include="Window.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
-    <ClCompile Include="segundo_main.cpp">
+    <ClCompile Include="E01_318085511.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
